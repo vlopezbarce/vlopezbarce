@@ -1,6 +1,6 @@
-# Projects
+# vlopezbarce
 
-Evidence of programming, engineering, and computer science projects that have been worked on either individually or collaboratively with Engineering students at Tecnológico de Monterrey, in Monterrey, Nuevo León from 2021-2022. Project contents range from applying computational modeling to applied physics, mathematics, and biology, to intermediate programming in order to resolve problem situations.
+Project showcase and evidence of programming, engineering, and computer science projects that have been worked on either individually or collaboratively with Engineering students at Tecnológico de Monterrey, in Monterrey, Nuevo León from 2021-2023. Project contents demonstrate a diverse range of skills, including web development, networking, data analysis, database management, and game development.
 
 Programming languages used:
-C++, Python, Arduino, MATLAB, Assembly, R
+C++, Python, SQL, JavaScript, HTML, CSS, and C#
